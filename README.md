@@ -39,7 +39,7 @@ CompiPy/
 
 ## Video Completo del Tutorial
 
-<a href="[https://www.youtube.com/watch?v=thWlyB-Ios0](https://youtu.be/l79NYQFsOFE?si=aP7X06oseZ5sraDV)" target="_blank">
+<a href="https://www.youtube.com/watch?v=l79NYQFsOFE&t=735s" target="_blank">
   <img width="300" height="500" alt="MiniaturaPDFsProject" src="https://github.com/user-attachments/assets/dadd4556-ae54-47aa-940d-7a99ffb93c32" alt="Icono de YouTube">
 </a>
 
