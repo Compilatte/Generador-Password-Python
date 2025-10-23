@@ -32,11 +32,10 @@ Perfecto para aprender a desarrollar aplicaciones GUI con Python, manejar cifrad
 
 ## Estructura del Proyecto
 
-CompiPy/
-├── compipy/               # Carpeta del Proyecto   
-│   ├── Compipy.py         # Interfaz principal y lógica del generador   
-│   └── vault.enc          # Archivo binario usado como sal criptográfica para el cifrado   
-|   └── salt.bin           # Archivo encriptado donde se almacenan las contraseñas guardadas   
+CompiPy/   
+├── CompiPy.py     # Código principal de la aplicación (interfaz y lógica del generador)     
+  ├── vault.enc    # Interfaz principal y lógica del generador  
+  ├── salt.bin     # Archivo encriptado donde se almacenan las contraseñas guardadas 
 
 ## Video Completo del Tutorial
 
