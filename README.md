@@ -47,8 +47,8 @@ CompiPy/
 
 Troka / Compilatte   
 <a href="https://www.youtube.com/@Compilattedev" target="_blank" rel="nofollow">Youtube</a>   
-<a href="https://www.tiktok.com/@compilatte" target="_blank" rel="nofollow">Instagram</a>   
-<a href="https://www.instagram.com/compilatte/" target="_blank" rel="nofollow">TikTok</a>   
+<a href="https://www.instagram.com/compilatte/" target="_blank" rel="nofollow">Instagram</a>  
+<a href="https://www.tiktok.com/@compilatte" target="_blank" rel="nofollow">TikTok</a>   
 
 ## Licencia
 
